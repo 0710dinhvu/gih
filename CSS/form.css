@@ -228,7 +228,9 @@ hr {
 .sec-form{
     margin: 30px 0;
 }
-
+.form-text img{
+    object-fit: cover;
+}
 #scrollToTop{
     display: block;
     position: fixed; 
@@ -260,6 +262,7 @@ hr {
     .left{
         width: 100%;
         padding: 0;
+        margin-top: 20px;
     }
     .right{
         width: 100%;
@@ -300,6 +303,7 @@ hr {
     .left{
         width: 100%;
         padding: 0;
+        margin-top: 20px;
     }
     .right{
         width: 100%;
