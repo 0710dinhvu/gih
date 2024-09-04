@@ -344,12 +344,13 @@ main{
     .intro{
         width: 100%;
         display: initial;
+        box-shadow: none;
+        background-color: inherit;
     }
     .intro>div{
         width: 90%;
         margin: 0 auto;
     }
-    
     .sm>div{
         margin: 2px;
         padding: 10px;
