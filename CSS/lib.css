@@ -54,7 +54,7 @@ ul.menu>li:nth-child(3){
 
 /* main */
 main{
-    background-image: url("/image/lib_bg.jpg");
+    background-image: url("../image/lib_bg.jpg");
     background-size: 20% auto;
     background-attachment: fixed;
 }

@@ -99,7 +99,7 @@ ul.menu>li:nth-child(2){
     font-weight: bold;
 }
 main{
-    background-image: url("/image/bg_hd.jpg");
+    background-image: url("../image/bg_hd.jpg");
     background-size: 20% auto;
     background-attachment: fixed;
 }
